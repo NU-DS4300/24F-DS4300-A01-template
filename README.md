@@ -4,10 +4,12 @@ This is the template repository for Assignment #1.
 
 ## Important Notes:
 
-- [ ] EC Due Date:
-- [ ] Regular Due Date:
+- [ ] EC Due Date: Sept 22, 2024 @ 11:59pm
+- [ ] Regular Due Date: Sept 24, 2024 @ 11:59pm
 - [ ] What to submit where?
-- [ ] You may do this assignment in pairs (not required).  The written portion must be done individually. 
+  - [ ] Implementation project should be submitted through GitHub/GH Classroom.
+  - [ ] Written portion should be submitted via GradeScope.
+- [ ] You may do this assignment in pairs. 
 
 ## Overview
 
