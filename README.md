@@ -1,4 +1,4 @@
-# DS4300 - Fall 2024 - Assignment #1 - Applied Component
+# DS4300 - Fall 2024 - Assignment #1 - Index It 
 
 This is the template repository for Assignment #1. 
 
@@ -51,6 +51,8 @@ You'll use the following data structures for this project:
 - AVL Tree (started for you)
 - Hash Table (main functions stubbed out for you)
 - Unsorted List (not started)
+
+The implementations of the data structures should be consistent with the explanations covered in lecture. 
 
 Each of these should inherit from a common interface of functionality in `indexer.abstract_index.AbstractIndex`. Those for which I've provided a full or partial implementation already do. 
 
