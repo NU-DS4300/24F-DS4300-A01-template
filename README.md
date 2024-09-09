@@ -2,7 +2,11 @@
 
 This is the template repository for Assignment #1. 
 
-## Important Notes:
+#### Changelog:
+
+- Sept 9 - Posted assignment. 
+
+## Important Notes and Reminders:
 
 - [ ] EC Due Date: Sept 22, 2024 @ 11:59pm
 - [ ] Regular Due Date: Sept 24, 2024 @ 11:59pm
@@ -11,9 +15,15 @@ This is the template repository for Assignment #1.
   - [ ] Written portion should be submitted via GradeScope.
 - [ ] You may do this assignment in pairs. 
 
-## Overview
+**Reminder**
 
-Database systems use indexes to speed up retrieval operations.  In this assignment, you will implement several different in-memory indexing data structures, build indexes with them for a large corpus of documents, and explore their relative performance with respect to searches. 
+- I expect you to fully understand (at the level of each line of code) and *be able to explain in-person* anything you submit with your name on it. 
+  - What does this mean for coding assistants and LLMs? If used appropriately, these can be amazing tools to aid in your understanding and comprehension of material as well as assist you in coding and debugging. It is no more or less wrong to blindly copy and paste code from an coding assistant/LLM as it would be to copy and paste from existing code on GitHub or from a text book. If you don't understand it and can't explain it, then you should not submit it. 
+  - If you find code online or from a coding assistant that you are struggling to interpret or understand what is going on conceptually, all you have to do is ask me or one of the TAs.  I'll gladly help you interpret things. 
+
+## Assignment Overview
+
+Database systems use indexes to speed up retrieval operations.  In this assignment, you will implement several different in-memory indexing data structures, build indexes with them for a large corpus of documents, and analyze their relative performance with respect to searches. 
 
 ### DataSet
 
@@ -68,4 +78,6 @@ If you add any packages to the base install, be sure to add them to the `require
 - [ ] An analysis report in PDF saved in the `report` folder of your repository.
   - [ ] The report should be 1 - 2 pages (if any graphs or figures were removed), single spaced, 12 pt font size. 
   - [ ] It should include a brief synopsis of the project in your own words, point out any unique features of your implementation (if any), describe the experimental procedure you followed for collecting timing data, and finally, an analysis of the collected data. State any conclusions you can draw from the analysis. 
+  - [ ] I expect your analysis to be robust and consistent with the level of this course and it skills gained in the pre-reqs. 
+  - [ ] If you would like to do your analysis in Jupyter (before writing your report), please include the Notebook file in the `timing_data` folder. Don't forget to add Jupyter/JupyterLab to the `requirements.txt` file. You can install Jupyter/JupyterLab in your environment via `pip install jupyterlab`. 
 
